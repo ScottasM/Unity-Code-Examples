@@ -7,4 +7,5 @@ Larger examples can be seen in : [Multiplatform sign in](https://github.com/Scot
 # [Tile grid](https://github.com/ScottasM/Unity-Code-Examples/tree/main/TileGrid)
 This allows you to turn your 2d map into a grid and place tiles (squares) predefined in a scriptable object into the grid.
 
-#
+# [Model Rotation](https://github.com/ScottasM/Unity-Code-Examples/blob/main/ModelRotation/ModelRotation.cs)
+This script allows you to rotate 3d objects by dragging your mouse/finger over it. 
